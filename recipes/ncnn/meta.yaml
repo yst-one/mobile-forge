@@ -2,9 +2,5 @@ package:
   name: ncnn
   version: 1.0.20260526 
 
-requirements:
-  build:
-    - cmake
-
 source:
   url: https://files.pythonhosted.org/packages/5b/77/d6acfd9b652463a2037a1113954f2cf0aa7d4c414de31b01aeb1fd9bf9e7/ncnn-1.0.20260526.tar.gz
